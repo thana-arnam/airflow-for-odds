@@ -1,0 +1,12 @@
+[2020-08-02 03:49:08,276] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: product_price_pipeline.start 2020-08-01T00:00:00+00:00 [queued]>
+[2020-08-02 03:49:08,294] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: product_price_pipeline.start 2020-08-01T00:00:00+00:00 [queued]>
+[2020-08-02 03:49:08,295] {taskinstance.py:866} INFO - 
+--------------------------------------------------------------------------------
+[2020-08-02 03:49:08,297] {taskinstance.py:867} INFO - Starting attempt 1 of 1
+[2020-08-02 03:49:08,298] {taskinstance.py:868} INFO - 
+--------------------------------------------------------------------------------
+[2020-08-02 03:49:08,311] {taskinstance.py:887} INFO - Executing <Task(DummyOperator): start> on 2020-08-01T00:00:00+00:00
+[2020-08-02 03:49:08,324] {standard_task_runner.py:53} INFO - Started process 462 to run task
+[2020-08-02 03:49:08,413] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: product_price_pipeline.start 2020-08-01T00:00:00+00:00 [running]> fa6566bbdf60
+[2020-08-02 03:49:08,536] {taskinstance.py:1048} INFO - Marking task as SUCCESS.dag_id=product_price_pipeline, task_id=start, execution_date=20200801T000000, start_date=20200802T034908, end_date=20200802T034908
+[2020-08-02 03:49:18,283] {logging_mixin.py:112} INFO - [2020-08-02 03:49:18,282] {local_task_job.py:103} INFO - Task exited with return code 0

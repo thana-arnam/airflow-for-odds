@@ -1,0 +1,54 @@
+[2020-08-02 03:48:40,135] {dag_processing.py:821} INFO - Processing files using up to 2 processes at a time 
+[2020-08-02 03:48:40,136] {dag_processing.py:822} INFO - Process each file at most once every 0 seconds
+[2020-08-02 03:48:40,139] {dag_processing.py:824} INFO - Checking for new files in /usr/local/airflow/dags every 300 seconds
+[2020-08-02 03:48:40,143] {dag_processing.py:1292} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-08-02 03:48:40,145] {dag_processing.py:1296} INFO - Failing jobs without heartbeat after 2020-08-02 03:43:40.145754+00:00
+[2020-08-02 03:48:40,182] {dag_processing.py:1029} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                            PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/usr/local/airflow/dags/bash_pipeline.py                                    0           0
+/usr/local/airflow/dags/dummy_pipeline.py            172  0.01s             0           0
+/usr/local/airflow/dags/product_price_pipeline.py                           0           0
+/usr/local/airflow/dags/python_pipeline.py           173  0.00s             0           0
+================================================================================
+[2020-08-02 03:48:50,253] {dag_processing.py:1292} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-08-02 03:48:50,255] {dag_processing.py:1296} INFO - Failing jobs without heartbeat after 2020-08-02 03:43:50.255124+00:00
+[2020-08-02 03:49:00,402] {dag_processing.py:1292} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-08-02 03:49:00,404] {dag_processing.py:1296} INFO - Failing jobs without heartbeat after 2020-08-02 03:44:00.404867+00:00
+[2020-08-02 03:49:10,507] {dag_processing.py:1292} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-08-02 03:49:10,510] {dag_processing.py:1296} INFO - Failing jobs without heartbeat after 2020-08-02 03:44:10.510241+00:00
+[2020-08-02 03:49:10,547] {dag_processing.py:1029} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                            PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/bash_pipeline.py             487  0.00s             0           0  1.01s           2020-08-02T03:49:09
+/usr/local/airflow/dags/dummy_pipeline.py                                   0           0  1.04s           2020-08-02T03:49:10
+/usr/local/airflow/dags/python_pipeline.py                                  0           0  1.04s           2020-08-02T03:49:10
+/usr/local/airflow/dags/product_price_pipeline.py    486  0.01s             1           0  1.01s           2020-08-02T03:49:09
+================================================================================
+[2020-08-02 03:49:20,662] {dag_processing.py:1292} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-08-02 03:49:20,663] {dag_processing.py:1296} INFO - Failing jobs without heartbeat after 2020-08-02 03:44:20.663416+00:00
+[2020-08-02 03:49:30,801] {dag_processing.py:1292} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-08-02 03:49:30,805] {dag_processing.py:1296} INFO - Failing jobs without heartbeat after 2020-08-02 03:44:30.805942+00:00
+[2020-08-02 03:49:40,909] {dag_processing.py:1292} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-08-02 03:49:40,910] {dag_processing.py:1296} INFO - Failing jobs without heartbeat after 2020-08-02 03:44:40.910355+00:00
+[2020-08-02 03:49:40,931] {dag_processing.py:1029} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                            PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/usr/local/airflow/dags/bash_pipeline.py                                    0           0  1.01s           2020-08-02T03:49:40
+/usr/local/airflow/dags/dummy_pipeline.py            795  0.01s             0           0  1.01s           2020-08-02T03:49:39
+/usr/local/airflow/dags/python_pipeline.py           798  0.00s             0           0  1.01s           2020-08-02T03:49:39
+/usr/local/airflow/dags/product_price_pipeline.py                           1           0  1.02s           2020-08-02T03:49:40
+================================================================================
+[2020-08-02 03:49:51,050] {dag_processing.py:1292} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-08-02 03:49:51,051] {dag_processing.py:1296} INFO - Failing jobs without heartbeat after 2020-08-02 03:44:51.051565+00:00
+[2020-08-02 03:50:01,187] {dag_processing.py:1292} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-08-02 03:50:01,188] {dag_processing.py:1296} INFO - Failing jobs without heartbeat after 2020-08-02 03:45:01.188769+00:00

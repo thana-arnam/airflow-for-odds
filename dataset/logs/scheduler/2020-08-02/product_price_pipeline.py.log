@@ -1,0 +1,337 @@
+[2020-08-02 03:48:41,161] {logging_mixin.py:112} INFO - [2020-08-02 03:48:41,161] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=183
+[2020-08-02 03:48:41,164] {scheduler_job.py:153} INFO - Started process (PID=183) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:41,168] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:48:41,169] {logging_mixin.py:112} INFO - [2020-08-02 03:48:41,169] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:41,584] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:41,617] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.453 seconds
+[2020-08-02 03:48:43,306] {logging_mixin.py:112} INFO - [2020-08-02 03:48:43,306] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=213
+[2020-08-02 03:48:43,312] {scheduler_job.py:153} INFO - Started process (PID=213) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:43,318] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:48:43,341] {logging_mixin.py:112} INFO - [2020-08-02 03:48:43,340] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:44,311] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:44,417] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 1.105 seconds
+[2020-08-02 03:48:46,224] {logging_mixin.py:112} INFO - [2020-08-02 03:48:46,224] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=238
+[2020-08-02 03:48:46,228] {scheduler_job.py:153} INFO - Started process (PID=238) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:46,231] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:48:46,232] {logging_mixin.py:112} INFO - [2020-08-02 03:48:46,232] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:46,583] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:46,626] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.399 seconds
+[2020-08-02 03:48:48,247] {logging_mixin.py:112} INFO - [2020-08-02 03:48:48,246] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=258
+[2020-08-02 03:48:48,250] {scheduler_job.py:153} INFO - Started process (PID=258) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:48,253] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:48:48,254] {logging_mixin.py:112} INFO - [2020-08-02 03:48:48,254] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:48,610] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:48,638] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.388 seconds
+[2020-08-02 03:48:50,279] {logging_mixin.py:112} INFO - [2020-08-02 03:48:50,278] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=278
+[2020-08-02 03:48:50,282] {scheduler_job.py:153} INFO - Started process (PID=278) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:50,286] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:48:50,287] {logging_mixin.py:112} INFO - [2020-08-02 03:48:50,287] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:50,636] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:50,660] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.378 seconds
+[2020-08-02 03:48:52,310] {logging_mixin.py:112} INFO - [2020-08-02 03:48:52,310] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=298
+[2020-08-02 03:48:52,315] {scheduler_job.py:153} INFO - Started process (PID=298) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:52,331] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:48:52,338] {logging_mixin.py:112} INFO - [2020-08-02 03:48:52,337] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:52,697] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:52,756] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.442 seconds
+[2020-08-02 03:48:54,328] {logging_mixin.py:112} INFO - [2020-08-02 03:48:54,328] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=318
+[2020-08-02 03:48:54,332] {scheduler_job.py:153} INFO - Started process (PID=318) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:54,340] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:48:54,342] {logging_mixin.py:112} INFO - [2020-08-02 03:48:54,341] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:54,680] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:54,733] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.401 seconds
+[2020-08-02 03:48:56,353] {logging_mixin.py:112} INFO - [2020-08-02 03:48:56,352] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=338
+[2020-08-02 03:48:56,361] {scheduler_job.py:153} INFO - Started process (PID=338) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:56,367] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:48:56,368] {logging_mixin.py:112} INFO - [2020-08-02 03:48:56,368] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:56,650] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:56,681] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.321 seconds
+[2020-08-02 03:48:58,398] {logging_mixin.py:112} INFO - [2020-08-02 03:48:58,398] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=358
+[2020-08-02 03:48:58,404] {scheduler_job.py:153} INFO - Started process (PID=358) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:58,409] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:48:58,411] {logging_mixin.py:112} INFO - [2020-08-02 03:48:58,411] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:58,748] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:48:58,774] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.370 seconds
+[2020-08-02 03:49:00,428] {logging_mixin.py:112} INFO - [2020-08-02 03:49:00,428] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=378
+[2020-08-02 03:49:00,431] {scheduler_job.py:153} INFO - Started process (PID=378) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:00,435] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:00,438] {logging_mixin.py:112} INFO - [2020-08-02 03:49:00,438] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:00,810] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:00,842] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.411 seconds
+[2020-08-02 03:49:02,455] {logging_mixin.py:112} INFO - [2020-08-02 03:49:02,455] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=398
+[2020-08-02 03:49:02,460] {scheduler_job.py:153} INFO - Started process (PID=398) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:02,475] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:02,482] {logging_mixin.py:112} INFO - [2020-08-02 03:49:02,482] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:02,861] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:02,955] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.495 seconds
+[2020-08-02 03:49:04,479] {logging_mixin.py:112} INFO - [2020-08-02 03:49:04,478] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=418
+[2020-08-02 03:49:04,484] {scheduler_job.py:153} INFO - Started process (PID=418) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:04,488] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:04,489] {logging_mixin.py:112} INFO - [2020-08-02 03:49:04,489] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:04,840] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:04,881] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:04,911] {scheduler_job.py:1292} INFO - Created <DagRun product_price_pipeline @ 2020-08-01 00:00:00+00:00: scheduled__2020-08-01T00:00:00+00:00, externally triggered: False>
+[2020-08-02 03:49:04,914] {scheduler_job.py:757} INFO - Examining DAG run <DagRun product_price_pipeline @ 2020-08-01 00:00:00+00:00: scheduled__2020-08-01T00:00:00+00:00, externally triggered: False>
+[2020-08-02 03:49:04,978] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:04,982] {scheduler_job.py:1634} INFO - Creating / updating <TaskInstance: product_price_pipeline.start 2020-08-01 00:00:00+00:00 [scheduled]> in ORM
+[2020-08-02 03:49:04,991] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.508 seconds
+[2020-08-02 03:49:06,494] {logging_mixin.py:112} INFO - [2020-08-02 03:49:06,494] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=439
+[2020-08-02 03:49:06,500] {scheduler_job.py:153} INFO - Started process (PID=439) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:06,507] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:06,509] {logging_mixin.py:112} INFO - [2020-08-02 03:49:06,509] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:06,919] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:06,953] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:06,966] {scheduler_job.py:757} INFO - Examining DAG run <DagRun product_price_pipeline @ 2020-08-01 00:00:00+00:00: scheduled__2020-08-01T00:00:00+00:00, externally triggered: False>
+[2020-08-02 03:49:07,005] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:07,009] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.509 seconds
+[2020-08-02 03:49:08,512] {logging_mixin.py:112} INFO - [2020-08-02 03:49:08,511] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=463
+[2020-08-02 03:49:08,516] {scheduler_job.py:153} INFO - Started process (PID=463) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:08,556] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:08,560] {logging_mixin.py:112} INFO - [2020-08-02 03:49:08,560] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:09,174] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:09,208] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:09,223] {scheduler_job.py:757} INFO - Examining DAG run <DagRun product_price_pipeline @ 2020-08-01 00:00:00+00:00: scheduled__2020-08-01T00:00:00+00:00, externally triggered: False>
+[2020-08-02 03:49:09,260] {scheduler_job.py:757} INFO - Examining DAG run <DagRun product_price_pipeline @ 2020-08-02 03:49:08.443486+00:00: manual__2020-08-02T03:49:08.443486+00:00, externally triggered: True>
+[2020-08-02 03:49:09,356] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:09,362] {scheduler_job.py:1634} INFO - Creating / updating <TaskInstance: product_price_pipeline.get_transaction_upc_and_price 2020-08-01 00:00:00+00:00 [scheduled]> in ORM
+[2020-08-02 03:49:09,372] {scheduler_job.py:1634} INFO - Creating / updating <TaskInstance: product_price_pipeline.get_product_upc_and_description 2020-08-01 00:00:00+00:00 [scheduled]> in ORM
+[2020-08-02 03:49:09,377] {scheduler_job.py:1634} INFO - Creating / updating <TaskInstance: product_price_pipeline.start 2020-08-02 03:49:08.443486+00:00 [scheduled]> in ORM
+[2020-08-02 03:49:09,390] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.873 seconds
+[2020-08-02 03:49:10,604] {logging_mixin.py:112} INFO - [2020-08-02 03:49:10,603] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=486
+[2020-08-02 03:49:10,607] {scheduler_job.py:153} INFO - Started process (PID=486) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:10,618] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:10,634] {logging_mixin.py:112} INFO - [2020-08-02 03:49:10,634] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:11,405] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:11,467] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:11,502] {scheduler_job.py:757} INFO - Examining DAG run <DagRun product_price_pipeline @ 2020-08-01 00:00:00+00:00: scheduled__2020-08-01T00:00:00+00:00, externally triggered: False>
+[2020-08-02 03:49:11,583] {scheduler_job.py:757} INFO - Examining DAG run <DagRun product_price_pipeline @ 2020-08-02 03:49:08.443486+00:00: manual__2020-08-02T03:49:08.443486+00:00, externally triggered: True>
+[2020-08-02 03:49:11,708] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:11,721] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 1.114 seconds
+[2020-08-02 03:49:13,639] {logging_mixin.py:112} INFO - [2020-08-02 03:49:13,638] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=520
+[2020-08-02 03:49:13,642] {scheduler_job.py:153} INFO - Started process (PID=520) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:13,655] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:13,664] {logging_mixin.py:112} INFO - [2020-08-02 03:49:13,663] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:14,502] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:14,610] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:14,623] {scheduler_job.py:757} INFO - Examining DAG run <DagRun product_price_pipeline @ 2020-08-01 00:00:00+00:00: scheduled__2020-08-01T00:00:00+00:00, externally triggered: False>
+[2020-08-02 03:49:14,673] {scheduler_job.py:757} INFO - Examining DAG run <DagRun product_price_pipeline @ 2020-08-02 03:49:08.443486+00:00: manual__2020-08-02T03:49:08.443486+00:00, externally triggered: True>
+[2020-08-02 03:49:14,883] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:14,908] {scheduler_job.py:1634} INFO - Creating / updating <TaskInstance: product_price_pipeline.get_transaction_upc_and_price 2020-08-02 03:49:08.443486+00:00 [scheduled]> in ORM
+[2020-08-02 03:49:14,952] {scheduler_job.py:1634} INFO - Creating / updating <TaskInstance: product_price_pipeline.get_product_upc_and_description 2020-08-02 03:49:08.443486+00:00 [scheduled]> in ORM
+[2020-08-02 03:49:15,019] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 1.377 seconds
+[2020-08-02 03:49:16,673] {logging_mixin.py:112} INFO - [2020-08-02 03:49:16,673] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=552
+[2020-08-02 03:49:16,677] {scheduler_job.py:153} INFO - Started process (PID=552) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:16,687] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:16,704] {logging_mixin.py:112} INFO - [2020-08-02 03:49:16,704] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:17,661] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:17,834] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:17,878] {scheduler_job.py:757} INFO - Examining DAG run <DagRun product_price_pipeline @ 2020-08-01 00:00:00+00:00: scheduled__2020-08-01T00:00:00+00:00, externally triggered: False>
+[2020-08-02 03:49:17,929] {scheduler_job.py:757} INFO - Examining DAG run <DagRun product_price_pipeline @ 2020-08-02 03:49:08.443486+00:00: manual__2020-08-02T03:49:08.443486+00:00, externally triggered: True>
+[2020-08-02 03:49:18,040] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:18,043] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 1.367 seconds
+[2020-08-02 03:49:19,707] {logging_mixin.py:112} INFO - [2020-08-02 03:49:19,706] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=583
+[2020-08-02 03:49:19,710] {scheduler_job.py:153} INFO - Started process (PID=583) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:19,720] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:19,723] {logging_mixin.py:112} INFO - [2020-08-02 03:49:19,723] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:20,235] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:20,302] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:20,322] {scheduler_job.py:757} INFO - Examining DAG run <DagRun product_price_pipeline @ 2020-08-01 00:00:00+00:00: scheduled__2020-08-01T00:00:00+00:00, externally triggered: False>
+[2020-08-02 03:49:20,334] {logging_mixin.py:112} INFO - [2020-08-02 03:49:20,334] {dagrun.py:309} INFO - Marking run <DagRun product_price_pipeline @ 2020-08-01 00:00:00+00:00: scheduled__2020-08-01T00:00:00+00:00, externally triggered: False> failed
+[2020-08-02 03:49:20,338] {scheduler_job.py:757} INFO - Examining DAG run <DagRun product_price_pipeline @ 2020-08-02 03:49:08.443486+00:00: manual__2020-08-02T03:49:08.443486+00:00, externally triggered: True>
+[2020-08-02 03:49:20,397] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:20,400] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.690 seconds
+[2020-08-02 03:49:21,701] {logging_mixin.py:112} INFO - [2020-08-02 03:49:21,700] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=605
+[2020-08-02 03:49:21,712] {scheduler_job.py:153} INFO - Started process (PID=605) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:21,732] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:21,739] {logging_mixin.py:112} INFO - [2020-08-02 03:49:21,739] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:22,104] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:22,162] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:22,181] {scheduler_job.py:757} INFO - Examining DAG run <DagRun product_price_pipeline @ 2020-08-02 03:49:08.443486+00:00: manual__2020-08-02T03:49:08.443486+00:00, externally triggered: True>
+[2020-08-02 03:49:22,252] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:22,256] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.545 seconds
+[2020-08-02 03:49:23,722] {logging_mixin.py:112} INFO - [2020-08-02 03:49:23,722] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=625
+[2020-08-02 03:49:23,726] {scheduler_job.py:153} INFO - Started process (PID=625) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:23,730] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:23,736] {logging_mixin.py:112} INFO - [2020-08-02 03:49:23,736] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:24,124] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:24,181] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:24,207] {scheduler_job.py:757} INFO - Examining DAG run <DagRun product_price_pipeline @ 2020-08-02 03:49:08.443486+00:00: manual__2020-08-02T03:49:08.443486+00:00, externally triggered: True>
+[2020-08-02 03:49:24,224] {logging_mixin.py:112} INFO - [2020-08-02 03:49:24,224] {dagrun.py:309} INFO - Marking run <DagRun product_price_pipeline @ 2020-08-02 03:49:08.443486+00:00: manual__2020-08-02T03:49:08.443486+00:00, externally triggered: True> failed
+[2020-08-02 03:49:24,229] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:24,239] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.513 seconds
+[2020-08-02 03:49:25,773] {logging_mixin.py:112} INFO - [2020-08-02 03:49:25,772] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=645
+[2020-08-02 03:49:25,785] {scheduler_job.py:153} INFO - Started process (PID=645) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:25,796] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:25,803] {logging_mixin.py:112} INFO - [2020-08-02 03:49:25,802] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:26,338] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:26,370] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:26,379] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:26,382] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.597 seconds
+[2020-08-02 03:49:27,783] {logging_mixin.py:112} INFO - [2020-08-02 03:49:27,782] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=665
+[2020-08-02 03:49:27,786] {scheduler_job.py:153} INFO - Started process (PID=665) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:27,790] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:27,792] {logging_mixin.py:112} INFO - [2020-08-02 03:49:27,792] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:28,161] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:28,207] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:28,218] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:28,222] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.435 seconds
+[2020-08-02 03:49:29,806] {logging_mixin.py:112} INFO - [2020-08-02 03:49:29,805] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=685
+[2020-08-02 03:49:29,809] {scheduler_job.py:153} INFO - Started process (PID=685) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:29,814] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:29,816] {logging_mixin.py:112} INFO - [2020-08-02 03:49:29,816] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:30,428] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:30,497] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:30,519] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:30,535] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.726 seconds
+[2020-08-02 03:49:31,852] {logging_mixin.py:112} INFO - [2020-08-02 03:49:31,852] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=705
+[2020-08-02 03:49:31,861] {scheduler_job.py:153} INFO - Started process (PID=705) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:31,865] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:31,867] {logging_mixin.py:112} INFO - [2020-08-02 03:49:31,867] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:32,247] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:32,300] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:32,322] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:32,325] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.464 seconds
+[2020-08-02 03:49:33,876] {logging_mixin.py:112} INFO - [2020-08-02 03:49:33,875] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=725
+[2020-08-02 03:49:33,880] {scheduler_job.py:153} INFO - Started process (PID=725) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:33,885] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:33,887] {logging_mixin.py:112} INFO - [2020-08-02 03:49:33,887] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:34,284] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:34,319] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:34,329] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:34,332] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.452 seconds
+[2020-08-02 03:49:35,906] {logging_mixin.py:112} INFO - [2020-08-02 03:49:35,906] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=745
+[2020-08-02 03:49:35,916] {scheduler_job.py:153} INFO - Started process (PID=745) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:35,925] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:35,927] {logging_mixin.py:112} INFO - [2020-08-02 03:49:35,927] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:36,258] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:36,292] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:36,304] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:36,308] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.392 seconds
+[2020-08-02 03:49:37,902] {logging_mixin.py:112} INFO - [2020-08-02 03:49:37,901] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=765
+[2020-08-02 03:49:37,905] {scheduler_job.py:153} INFO - Started process (PID=765) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:37,908] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:37,910] {logging_mixin.py:112} INFO - [2020-08-02 03:49:37,909] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:38,276] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:38,308] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:38,320] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:38,324] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.419 seconds
+[2020-08-02 03:49:39,932] {logging_mixin.py:112} INFO - [2020-08-02 03:49:39,932] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=785
+[2020-08-02 03:49:39,936] {scheduler_job.py:153} INFO - Started process (PID=785) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:39,943] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:39,945] {logging_mixin.py:112} INFO - [2020-08-02 03:49:39,945] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:40,275] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:40,310] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:40,321] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:40,325] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.389 seconds
+[2020-08-02 03:49:41,955] {logging_mixin.py:112} INFO - [2020-08-02 03:49:41,954] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=805
+[2020-08-02 03:49:41,959] {scheduler_job.py:153} INFO - Started process (PID=805) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:41,962] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:41,964] {logging_mixin.py:112} INFO - [2020-08-02 03:49:41,964] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:42,348] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:42,407] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:42,434] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:42,444] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.485 seconds
+[2020-08-02 03:49:43,988] {logging_mixin.py:112} INFO - [2020-08-02 03:49:43,987] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=825
+[2020-08-02 03:49:43,993] {scheduler_job.py:153} INFO - Started process (PID=825) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:44,007] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:44,009] {logging_mixin.py:112} INFO - [2020-08-02 03:49:44,009] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:44,350] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:44,382] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:44,393] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:44,397] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.404 seconds
+[2020-08-02 03:49:46,009] {logging_mixin.py:112} INFO - [2020-08-02 03:49:46,009] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=845
+[2020-08-02 03:49:46,014] {scheduler_job.py:153} INFO - Started process (PID=845) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:46,020] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:46,030] {logging_mixin.py:112} INFO - [2020-08-02 03:49:46,029] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:46,376] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:46,409] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:46,422] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:46,424] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.410 seconds
+[2020-08-02 03:49:48,034] {logging_mixin.py:112} INFO - [2020-08-02 03:49:48,034] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=865
+[2020-08-02 03:49:48,037] {scheduler_job.py:153} INFO - Started process (PID=865) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:48,049] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:48,052] {logging_mixin.py:112} INFO - [2020-08-02 03:49:48,051] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:48,414] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:48,451] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:48,463] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:48,467] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.429 seconds
+[2020-08-02 03:49:50,057] {logging_mixin.py:112} INFO - [2020-08-02 03:49:50,056] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=887
+[2020-08-02 03:49:50,060] {scheduler_job.py:153} INFO - Started process (PID=887) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:50,064] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:50,067] {logging_mixin.py:112} INFO - [2020-08-02 03:49:50,067] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:50,411] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:50,434] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:50,442] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:50,445] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.385 seconds
+[2020-08-02 03:49:52,086] {logging_mixin.py:112} INFO - [2020-08-02 03:49:52,086] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=907
+[2020-08-02 03:49:52,090] {scheduler_job.py:153} INFO - Started process (PID=907) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:52,099] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:52,106] {logging_mixin.py:112} INFO - [2020-08-02 03:49:52,103] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:52,490] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:52,551] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:52,575] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:52,579] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.489 seconds
+[2020-08-02 03:49:54,119] {logging_mixin.py:112} INFO - [2020-08-02 03:49:54,119] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=927
+[2020-08-02 03:49:54,124] {scheduler_job.py:153} INFO - Started process (PID=927) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:54,128] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:54,131] {logging_mixin.py:112} INFO - [2020-08-02 03:49:54,130] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:54,522] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:54,558] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:54,569] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:54,574] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.450 seconds
+[2020-08-02 03:49:56,159] {logging_mixin.py:112} INFO - [2020-08-02 03:49:56,158] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=947
+[2020-08-02 03:49:56,167] {scheduler_job.py:153} INFO - Started process (PID=947) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:56,171] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:56,176] {logging_mixin.py:112} INFO - [2020-08-02 03:49:56,175] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:56,773] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:56,815] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:56,832] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:56,836] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.669 seconds
+[2020-08-02 03:49:58,165] {logging_mixin.py:112} INFO - [2020-08-02 03:49:58,165] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=967
+[2020-08-02 03:49:58,169] {scheduler_job.py:153} INFO - Started process (PID=967) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:58,172] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:49:58,174] {logging_mixin.py:112} INFO - [2020-08-02 03:49:58,174] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:58,578] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:49:58,641] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:49:58,663] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:49:58,671] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.502 seconds
+[2020-08-02 03:50:00,200] {logging_mixin.py:112} INFO - [2020-08-02 03:50:00,200] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=987
+[2020-08-02 03:50:00,204] {scheduler_job.py:153} INFO - Started process (PID=987) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:50:00,227] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:50:00,228] {logging_mixin.py:112} INFO - [2020-08-02 03:50:00,228] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:50:00,596] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:50:00,651] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:50:00,674] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:50:00,680] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.476 seconds
+[2020-08-02 03:50:02,242] {logging_mixin.py:112} INFO - [2020-08-02 03:50:02,241] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1007
+[2020-08-02 03:50:02,245] {scheduler_job.py:153} INFO - Started process (PID=1007) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:50:02,248] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:50:02,249] {logging_mixin.py:112} INFO - [2020-08-02 03:50:02,249] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:50:02,631] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:50:02,664] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:50:02,678] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:50:02,683] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.438 seconds
+[2020-08-02 03:50:04,260] {logging_mixin.py:112} INFO - [2020-08-02 03:50:04,259] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1027
+[2020-08-02 03:50:04,263] {scheduler_job.py:153} INFO - Started process (PID=1027) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:50:04,266] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:50:04,270] {logging_mixin.py:112} INFO - [2020-08-02 03:50:04,270] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:50:04,636] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:50:04,703] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:50:04,733] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:50:04,741] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.478 seconds
+[2020-08-02 03:50:06,264] {logging_mixin.py:112} INFO - [2020-08-02 03:50:06,264] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1047
+[2020-08-02 03:50:06,278] {scheduler_job.py:153} INFO - Started process (PID=1047) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:50:06,287] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:50:06,289] {logging_mixin.py:112} INFO - [2020-08-02 03:50:06,288] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:50:06,624] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:50:06,658] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:50:06,669] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:50:06,673] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.395 seconds
+[2020-08-02 03:50:08,295] {logging_mixin.py:112} INFO - [2020-08-02 03:50:08,294] {settings.py:253} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=1067
+[2020-08-02 03:50:08,311] {scheduler_job.py:153} INFO - Started process (PID=1067) to work on /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:50:08,314] {scheduler_job.py:1560} INFO - Processing file /usr/local/airflow/dags/product_price_pipeline.py for tasks to queue
+[2020-08-02 03:50:08,319] {logging_mixin.py:112} INFO - [2020-08-02 03:50:08,319] {dagbag.py:403} INFO - Filling up the DagBag from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:50:08,721] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['product_price_pipeline']) retrieved from /usr/local/airflow/dags/product_price_pipeline.py
+[2020-08-02 03:50:08,756] {scheduler_job.py:1282} INFO - Processing product_price_pipeline
+[2020-08-02 03:50:08,768] {scheduler_job.py:446} INFO - Skipping SLA check for <DAG: product_price_pipeline> because no tasks in DAG have SLAs
+[2020-08-02 03:50:08,771] {scheduler_job.py:161} INFO - Processing /usr/local/airflow/dags/product_price_pipeline.py took 0.460 seconds
